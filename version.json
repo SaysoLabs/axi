@@ -1,1 +1,6 @@
-1.0.1
+{
+  "Version": "1.0.1",
+  "DownloadUrl": "https://github.com/SaysoLabs/axi/releases/download/v1.0.1/axi-setup.exe",
+  "Changelog": "- Discord OAuth login\n- Auto-join Discord server\n- UI improvements",
+  "ForceUpdate": false
+}
